@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to the Brazilian Army Geographic Service Buildings Dataset Page
 
-You can use the [editor on GitHub](https://github.com/dsgoficial/brazilian_army_geographic_service_buildings_dataset/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Brazilian Army Geographic Service Buildings Dataset (BAGS Building DS) was built by the 1st Geoinformation Center ([@1cgeo](https://github.com/1cgeo)). It has more than one million and six hundred thousand building footprints extracted from airborne photogrammetric imagery of the Brazilian states of Rio Grande do Sul and Santa Catarina.
 
-### Markdown
+# Dataset Specs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TODO
 
-```markdown
-Syntax highlighted code block
+# Preview
 
-# Header 1
-## Header 2
-### Header 3
+TODO
 
-- Bulleted
-- List
+# Download
 
-1. Numbered
-2. List
+TODO
 
-**Bold** and _Italic_ and `Code` text
+# Credits
 
-[Link](url) and ![Image](src)
-```
+TODO
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Citing
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dsgoficial/brazilian_army_geographic_service_buildings_dataset/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+TODO
