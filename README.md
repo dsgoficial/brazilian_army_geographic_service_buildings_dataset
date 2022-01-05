@@ -6,7 +6,7 @@ The Brazilian Army Geographic Service Buildings Dataset (BAGS Building DS) was b
 
 # Dataset Specs
 
-TODO
+This dataset was built with airborne RGB photogrammetric images from SEPLAG/RS (spatial resolution of 35 cm) and SEMA/SC (spatial resolution of 39cm) that respectively cover portions of the Brazilian States of Rio Grande do Sul and Santa Catarina.
 
 # Preview
 
@@ -14,11 +14,13 @@ TODO
 
 # Download
 
-TODO
+The download link will be available soon.
 
 # Credits
 
-TODO
+- SEPLAG/RS: images from Rio Grande do Sul;
+- SEMA/SC: images from Santa Catarina; and
+- Brazilian Army Geographic Service: vectors extracted from the imagery.
 
 # Citing
 
